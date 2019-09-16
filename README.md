@@ -14,7 +14,7 @@ The project contains following files
 <br/><br/>
 
 **Demo** For a working example go to:  
-[https://alpharetta-top-ice-cream-shops-simple-api.amitmourya.me/api/businesses](https://alpharetta-top-ice-cream-shops-simple-api.amitmourya.me/api/businesses)
+[https://adp-code-challenge.amitmourya.me/api/businesses](https://adp-code-challenge.amitmourya.me/api/businesses)
 it also accepts optional parameter **location** & **limit**
 
-[https://alpharetta-top-ice-cream-shops-simple-api.amitmourya.me/api/businesses?location=Duluth&limit=2](https://alpharetta-top-ice-cream-shops-simple-api.amitmourya.me/api/businesses?location=Duluth&limit=2)
+[https://adp-code-challenge.amitmourya.me/api/businesses?location=Duluth&limit=2](https://adp-code-challenge.amitmourya.me/api/businesses?location=Duluth&limit=2)
