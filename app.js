@@ -12,7 +12,7 @@
         let options = {
             port: 443,
             hostname: 'api.yelp.com',
-            path: '/v3/businesses/search?location=' + location + '&term=icecream&sort_by=rating&limit=' + limit,
+            path: encodeURI('/v3/businesses/search?location=' + location + '&term=icecream&sort_by=rating&limit=' + limit),
             method: 'GET',
             bearerToken: process.env.API_Key,
             headers: {
